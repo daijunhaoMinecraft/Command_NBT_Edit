@@ -1,0 +1,4 @@
+requests
+wxpython
+pyperclip3
+Taowa_wx
